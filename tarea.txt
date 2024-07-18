@@ -1,0 +1,6 @@
+Tarea:
+- Hacer los ejercicios semanales
+- Practica Calificada (Trabajar, publicar y enviar el link de Github)
+- Subir un proyecto (Repo del Proyecto Final)
+    - Agregar a los integrantes como colaboradores
+- Investigar condicional: Switch
